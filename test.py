@@ -34,4 +34,4 @@ def filling(number):  # заполнение массива
 
 input_number = int(input())
 answer = filling(input_number)
-print(answer)
+
